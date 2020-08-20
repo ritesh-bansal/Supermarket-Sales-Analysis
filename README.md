@@ -5,8 +5,13 @@ A supermarket is self-service shop offering a wide variety of food, beverages an
 In this Data Science project I have used different techniques to analyse the sales data set of supermarket.
 
 # What will you discover from this analysis?
-1.Relation of customers with SuperMarket
+
+1.Relation of customers with SuperMarket.
+
 2.Payment methods used in supermarket.
+
 3.Products relation with quantities.
+
 4.Types of product and their sales.
+
 5.Products and their ratings.
